@@ -10,7 +10,7 @@ const inputs = document.querySelectorAll('.controls input');
 
 
 // ////
-const video = document.querySelector('.player');
+const video = document.querySelector('.player__video');
 const toggleButton = document.querySelector('.player__button.toggle');
 const rewindButton = document.querySelector('.rewind');
 const skipButton = document.querySelector('.skip');
